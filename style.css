@@ -223,6 +223,8 @@ main{
     font-size: 16px;
     font-weight: 500;
     color: aqua;
+    position: relative;
+    bottom: 40px;
 }
 .badger{
     padding-top: 20px;
